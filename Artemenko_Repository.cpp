@@ -27,7 +27,6 @@ void prov(float& number1)
     }
 }
 
-
 int main()
 {
     setlocale(LC_ALL, "rus");
