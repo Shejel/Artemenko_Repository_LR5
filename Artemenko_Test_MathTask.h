@@ -1,3 +1,8 @@
+#include<iostream>
+#include<string>
+#include<Artemenko_Repository.cpp>
+using namespace std;
+
 float task1()
 {
     float num1;

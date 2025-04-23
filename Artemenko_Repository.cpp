@@ -1,6 +1,5 @@
 #include<iostream>
-//#ifndef Artemenko_Repository_LR5_math
-#define Artemenko_Repository_LR5_math
+#include<Artemenko_Test_MathTask.h>
 using namespace std;
 
 void prov(int& number1)
@@ -64,3 +63,4 @@ int main()
             cout << "Введите корректное число!" << endl;
         }
     }
+}
