@@ -2,6 +2,7 @@
 #include "CUTE/cute/cute_runner.h"
 #include "Artemenko_MathTask.h"
 
+
 using namespace cute;
 
 void testUserInput_Empty() {
